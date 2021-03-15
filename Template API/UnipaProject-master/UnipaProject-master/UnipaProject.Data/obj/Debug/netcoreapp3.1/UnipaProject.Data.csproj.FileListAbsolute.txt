@@ -1,0 +1,15 @@
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Data\bin\Debug\netcoreapp3.1\UnipaProject.Data.deps.json
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Data\bin\Debug\netcoreapp3.1\UnipaProject.Data.runtimeconfig.json
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Data\bin\Debug\netcoreapp3.1\UnipaProject.Data.runtimeconfig.dev.json
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Data\bin\Debug\netcoreapp3.1\UnipaProject.Data.dll
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Data\bin\Debug\netcoreapp3.1\UnipaProject.Data.pdb
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Data\bin\Debug\netcoreapp3.1\UnipaProject.Core.dll
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Data\bin\Debug\netcoreapp3.1\UnipaProject.Core.pdb
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Data\obj\Debug\netcoreapp3.1\UnipaProject.Data.csprojAssemblyReference.cache
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Data\obj\Debug\netcoreapp3.1\UnipaProject.Data.AssemblyInfoInputs.cache
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Data\obj\Debug\netcoreapp3.1\UnipaProject.Data.AssemblyInfo.cs
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Data\obj\Debug\netcoreapp3.1\UnipaProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Data\obj\Debug\netcoreapp3.1\UnipaProject.Data.csproj.CopyComplete
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Data\obj\Debug\netcoreapp3.1\UnipaProject.Data.dll
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Data\obj\Debug\netcoreapp3.1\UnipaProject.Data.pdb
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Data\obj\Debug\netcoreapp3.1\UnipaProject.Data.genruntimeconfig.cache

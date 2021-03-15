@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UnipaProject.Core\UnipaProject.Core.csproj" />
+    <ProjectReference Include="..\UnipaProject.Data\UnipaProject.Data.csproj" />
+  </ItemGroup>
+
+</Project>

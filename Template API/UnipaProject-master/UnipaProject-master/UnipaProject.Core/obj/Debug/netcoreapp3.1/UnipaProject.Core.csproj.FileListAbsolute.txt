@@ -1,0 +1,9 @@
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Core\bin\Debug\netcoreapp3.1\UnipaProject.Core.deps.json
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Core\bin\Debug\netcoreapp3.1\UnipaProject.Core.dll
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Core\bin\Debug\netcoreapp3.1\UnipaProject.Core.pdb
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Core\obj\Debug\netcoreapp3.1\UnipaProject.Core.csprojAssemblyReference.cache
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Core\obj\Debug\netcoreapp3.1\UnipaProject.Core.AssemblyInfoInputs.cache
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Core\obj\Debug\netcoreapp3.1\UnipaProject.Core.AssemblyInfo.cs
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Core\obj\Debug\netcoreapp3.1\UnipaProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Core\obj\Debug\netcoreapp3.1\UnipaProject.Core.dll
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Core\obj\Debug\netcoreapp3.1\UnipaProject.Core.pdb

@@ -1,0 +1,14 @@
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Service\bin\Debug\netcoreapp3.1\UnipaProject.Service.deps.json
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Service\bin\Debug\netcoreapp3.1\UnipaProject.Service.dll
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Service\bin\Debug\netcoreapp3.1\UnipaProject.Service.pdb
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Service\bin\Debug\netcoreapp3.1\UnipaProject.Core.dll
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Service\bin\Debug\netcoreapp3.1\UnipaProject.Data.dll
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Service\bin\Debug\netcoreapp3.1\UnipaProject.Core.pdb
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Service\bin\Debug\netcoreapp3.1\UnipaProject.Data.pdb
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Service\obj\Debug\netcoreapp3.1\UnipaProject.Service.csprojAssemblyReference.cache
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Service\obj\Debug\netcoreapp3.1\UnipaProject.Service.AssemblyInfoInputs.cache
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Service\obj\Debug\netcoreapp3.1\UnipaProject.Service.AssemblyInfo.cs
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Service\obj\Debug\netcoreapp3.1\UnipaProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Service\obj\Debug\netcoreapp3.1\UnipaProject.Service.csproj.CopyComplete
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Service\obj\Debug\netcoreapp3.1\UnipaProject.Service.dll
+C:\Users\omerd\source\repos\UnipaProject\UnipaProject.Service\obj\Debug\netcoreapp3.1\UnipaProject.Service.pdb
